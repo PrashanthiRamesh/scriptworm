@@ -3,7 +3,7 @@
     <v-row class="text-center">
       <v-col class="mb-4">
         <h4 class="font-weight-bold mb-3 heading">
-          We are building something awesome for you! :)
+          We are building something awesome ^^
         </h4>
       </v-col>
     </v-row>
