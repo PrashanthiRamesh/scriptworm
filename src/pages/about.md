@@ -8,14 +8,13 @@ title: About
   <h3>About</h3>
 </div>
 
-[Vitesse](https://github.com/antfu/vitesse) is an opinionated [Vite](https://github.com/vitejs/vite) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
+Hi there! My name is Prashanthi Ramesh. I am a web developer with a strong drive to make web applications easy on the eye.
+
+You are welcome to join me on this journey. Look around and feel free to contact me if you need help with anything web <div inline-block i-carbon-face-cool />
 
 ```js
-// syntax highlighting example
-function vitesse() {
-  const foo = 'bar'
-  console.log(foo)
+function contactMe() {
+  const email = 'prashanthi.ramesh@scriptworm.tech'
+  const linkedIn = 'https://www.linkedin.com/in/prashanthiramesh/'
 }
 ```
-
-Check out the [GitHub repo](https://github.com/antfu/vitesse) for more details.

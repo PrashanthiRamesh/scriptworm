@@ -13,7 +13,7 @@ const toggleLocales = () => {
 <template>
   <nav text-xl mt-6>
     <router-link class="icon-btn mx-2" to="/" :title="t('button.home')">
-      <div i-carbon-campsite />
+      <div i-carbon-debug />
     </router-link>
 
     <button class="icon-btn mx-2 !outline-none" :title="t('button.toggle_dark')" @click="toggleDark()">
@@ -28,8 +28,16 @@ const toggleLocales = () => {
       <div i-carbon-dicom-overlay />
     </router-link>
 
-    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank" title="GitHub">
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com//PrashanthiRamesh/" target="_blank" title="GitHub">
       <div i-carbon-logo-github />
+    </a>
+
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://www.linkedin.com/in/prashanthiramesh/" target="_blank" title="LinkedIn">
+      <div i-carbon-logo-linkedin />
+    </a>
+
+    <a class="icon-btn mx-2" rel="noreferrer" href="mailto: prashanthi.ramesh@scriptworm.tech" target="_blank" title="Mail">
+      <div i-carbon-email />
     </a>
   </nav>
 </template>
